@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BigPicture</string>
+    <string name="button1text">Gallary</string>
+    <string name="mapButton2text">Search</string>
+    <string name="large_text">24</string>
+    <string name="google_maps_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBGIihNmc1jYX4ZVFNh2GkAY3z7Mn_KkLw</string>
+    <string name="something_wrong" />
+    <string name="connection_timeout" />
+    <string name="nointernet" />
+    <string name="server_not_responding" />
+    <string name="parse_error" />
+    <string name="searchfield">search</string>
+    <string name="pre_search_images">search first</string>
+    <string name="content_description_media">test test 1</string>
+    <string name="title">test title</string>
+    <string name="secondary_text">second test test</string>
+    <string name="supporting_text">supporting test test</string>
+    <string name="action_1">test button 1</string>
+    <string name="action_2">test button 2</string>
+    <string name="galButton1text">Map view</string>
+</resources>
