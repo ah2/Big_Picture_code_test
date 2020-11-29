@@ -18,4 +18,9 @@
     <string name="action_1">test button 1</string>
     <string name="action_2">test button 2</string>
     <string name="galButton1text">Map view</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="sport_fragment">Sport Fragment</string>
+    <string name="movie_fragment">Movie Fragment</string>
 </resources>
